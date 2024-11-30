@@ -9,12 +9,7 @@ Wildfire Mitigation with SDG&amp;E
 
 Due to security concerns, we are unable to share the raw datasets. Please contact Phi Ngyuen (pnguyen@sdge.com) or Kasra Mohammadi (KMohamma@sdge.com) to request access. 
 
-There are 5 datasets used in this project:
-1. `gis_weatherstation_shape_2024_10_04.csv`: Information of weather stations such as names, location, structure details, etc.
-2. `src_wings_meteorology_station_summary_snapshot_2023_08_02.csv`: Meteorology data for each weather stations such as max gust and alert windspeed. 
-3. `src_wings_meteorology_windspeed_snapshot_2023_08_02.csv`: Windspeed snapshots collected from weather stations, ranging from years 2012 to 2022. 
-4. `src_vri_snapshot_2024_03_20.csv`: Geospatial data and risk category for the Vegetation Risk Index (VRI) polygons.
-5. `dev_wings_agg_span_2024_01_01.csv`: Information of conductor spans such as location, structure details, associates weather station, etc.
+
 
 ## Packages
 
