@@ -20,7 +20,7 @@ Once you have the datasets, please place them all in a folder named "data" insid
 
 ## Packages
 
-Please download the following Python packages so they are ready for import when you run the code. 
+Please download the following Python packages using `pip install` so they are ready for import when you run the code. 
 
 Basic data science packages:
 - Numpy 
