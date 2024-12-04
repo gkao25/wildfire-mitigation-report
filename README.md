@@ -16,7 +16,7 @@ There are 5 datasets used in this project:
 4. `src_vri_snapshot_2024_03_20.csv`: Geospatial data and risk category for the Vegetation Risk Index (VRI) polygons.
 5. `dev_wings_agg_span_2024_01_01.csv`: Information of conductor spans such as location, structure details, associates weather station, etc.
 
-Once you have the datasets, please place them all in a folder named "data" inside the root directory. The code lodes the files from the `data/` directory.
+Once you have the datasets, please place them all in a folder named "data" inside the root directory. The code loads the files from the `data/` directory.
 
 ## Packages
 
