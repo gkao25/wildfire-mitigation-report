@@ -22,15 +22,16 @@ Once you have the datasets, please place them all in a folder named "data" insid
 
 Please download the following Python packages using `pip install` so they are ready for import when you run the code. 
 
-Basic data science packages:
+Data science packages:
 - Numpy 
 - Pandas
+- GeoPandas
+- NetworkX
 
 Plotting packages: 
 - matplotlib.pyplot
 - Seaborn
 
 Geospatial analysis and map-drawing packages: 
-- GeoPandas
 - Shapely
 - Folium
